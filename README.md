@@ -1,6 +1,6 @@
-# Find largest number using java
+# Print palindrome pattern using java
 
-find largest number
+palindrome pattern
 
 
 
